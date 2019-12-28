@@ -1,4 +1,4 @@
-# subtractionOfTwoNumbersProvidedbyTheUser
+# Subtraction Of Two Numbers Provided by The User
 
 
 In this program, I asked the user to enter two numbers and this program displays the sub of two numbers entered by user.
